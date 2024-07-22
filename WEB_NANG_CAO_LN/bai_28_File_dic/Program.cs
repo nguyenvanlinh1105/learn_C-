@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+
 namespace bai_28_File_dic
 {
     class Program
@@ -56,9 +57,38 @@ namespace bai_28_File_dic
          *          GetFileName: Phương thức này được sử dụng để lấy phần tên tệp (bao gồm cả phần mở rộng) từ đường dẫn.
          *                      string fileName = Path.GetFileName("C:\\folder1\\file.txt");
                                 Console.WriteLine($"File Name: {fileName}");
+                    GetFullPath: trả về đường dẫn đầy đủ
+                    GetRandomFilename: tạo file ngẫu nhiên 
+                                var path = Path.GetRandomFileName()
          */
+
+        /*
+         * Làm việc với lớp FILE
+         *          File.WriteAllText: hàm này tạo ra file mới (nếu đã tồn tại nó sẽ ghi đè) ghi vào nó một nội dung text, rồi đóng file đó luôn 
+         *          File.AppendAllText(fileName,content): hàm này nối thêm text vào sau đoạn văn bản đã có 
+         *          File.ReadAllLines: đọc text trong file 
+         *          file.Move(oldFile, newFileChange)
+         */
+
+
+        /*LÀM VIỆC VỚI IO.STREAM: LUỒNG 
+         *      CanRead : Cho biết stream hỗ trợ việc đọc hay không 
+         *      CanWrite: Cho biết stream có hỗ trợ việc ghi hay không
+         *      CanSeek: Cho biết stream có hỗ trợ dịch chuyển con trỏ hay không 
+         *      CanTimeout: cho biết steam hỗ trợ dịch chuyển con trỏ hay không
+         *      Length: Cho biết kích thước (byte) của stream.
+         *      Position: Đọc hoặc thiết lập vị trí đọc ( thiết lập stream thì phải hỗ trợ seek)
+         *      ReadTimeout: Đọc hoặc thiết lập giá trị (mili giấy) dành cho tác vụ đọc stream trước khi timeout phát sinh
+         *      WriteTimeout : Ghi hoặc thiết lập giá trị (mili giây) danh cho tác vụ ghi stream trước khi timeout phát sinh
+         *      
+         * 
+         */
+
+
+
         static void Main(string[] args)
         {
+            Console.OutputEncoding = Encoding.UTF8;
             //        Làm việc DriveInfo
             //driveinfo drive = new driveinfo("abc");
             //console.writeline($"dirve {drive.name}");
@@ -91,8 +121,44 @@ namespace bai_28_File_dic
             //}
 
             // làm việc với path 
-            var path = Path.Combine("Dir1", "dir2");
-            Console.WriteLine($"path =>{path}");
+            //var path = Path.Combine("Dir1", "dir2");
+            //Console.WriteLine($"path =>{path}");
+            //path = "linh.txt";
+            //path = Path.ChangeExtension(path,"md");// đổi đuôi kiểu file
+            //Console.WriteLine($"{path}");
+            //Console.WriteLine($"GetExtension:trả về phần mở rộng {Path.GetExtension(path)}");
+
+
+
+            // làm việc với file 
+            //string fileName = " abc.txt";
+            //string content = "Vui vẻ quả nhỉ";
+            //File.WriteAllText(fileName, content);
+            //File.AppendAllText(fileName, content);
+            //var Lines = File.ReadAllLines(fileName);
+            //foreach(var i in Lines)
+            //{
+            //    Console.WriteLine(i);
+            //}
+            //content = File.ReadAllText(fileName);
+            //Console.WriteLine(content);
+
+
+
+            // Đọc và ghi file 
+
+            string path = "data.txt";
+             var stream = new FileStream(path:path, FileMode.OpenOrCreate);
+            // lưu dữ liệu 
+            byte[] buffer = { 1, 2 ,3 };
+        int offset = 0;
+            int count = 3;
+            stream.Write(buffer, offset,count);
+           int sobyte= stream.Read(buffer, offset, count);
+            Console.WriteLine(sobyte);
+
+
         }
+
     }
 }
