@@ -1,0 +1,7 @@
+D:\OneDriver\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_28_File_dic\bin\Debug\bai_28_File_dic.exe.config
+D:\OneDriver\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_28_File_dic\bin\Debug\bai_28_File_dic.exe
+D:\OneDriver\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_28_File_dic\bin\Debug\bai_28_File_dic.pdb
+D:\OneDriver\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_28_File_dic\obj\Debug\bai_28_File_dic.csproj.AssemblyReference.cache
+D:\OneDriver\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_28_File_dic\obj\Debug\bai_28_File_dic.csproj.CoreCompileInputs.cache
+D:\OneDriver\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_28_File_dic\obj\Debug\bai_28_File_dic.exe
+D:\OneDriver\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_28_File_dic\obj\Debug\bai_28_File_dic.pdb
