@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEB_NANG_CAO_LN", "WEB_NANG
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai_28_File_dic", "bai_28_File_dic\bai_28_File_dic.csproj", "{4C0C5D3E-6923-43D5-B285-178256C0AA99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai_28_thucHanhFile", "bai_28_thucHanhFile\bai_28_thucHanhFile.csproj", "{A68633CC-0C60-4C6E-9554-1115D5BB69F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4C0C5D3E-6923-43D5-B285-178256C0AA99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C0C5D3E-6923-43D5-B285-178256C0AA99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C0C5D3E-6923-43D5-B285-178256C0AA99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A68633CC-0C60-4C6E-9554-1115D5BB69F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A68633CC-0C60-4C6E-9554-1115D5BB69F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A68633CC-0C60-4C6E-9554-1115D5BB69F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A68633CC-0C60-4C6E-9554-1115D5BB69F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
