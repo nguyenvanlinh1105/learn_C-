@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai_28_File_dic", "bai_28_F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai_28_thucHanhFile", "bai_28_thucHanhFile\bai_28_thucHanhFile.csproj", "{A68633CC-0C60-4C6E-9554-1115D5BB69F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai_29_async_await", "bai_29_async_await\bai_29_async_await.csproj", "{12B82F5C-7AF3-43EB-9D8D-0C9A2F17FA84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A68633CC-0C60-4C6E-9554-1115D5BB69F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A68633CC-0C60-4C6E-9554-1115D5BB69F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A68633CC-0C60-4C6E-9554-1115D5BB69F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12B82F5C-7AF3-43EB-9D8D-0C9A2F17FA84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B82F5C-7AF3-43EB-9D8D-0C9A2F17FA84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B82F5C-7AF3-43EB-9D8D-0C9A2F17FA84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B82F5C-7AF3-43EB-9D8D-0C9A2F17FA84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
