@@ -1,0 +1,7 @@
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_19_virtual-method_abstract_interface\bin\Debug\bai_19_virtual-method_abstract_interface.exe.config
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_19_virtual-method_abstract_interface\bin\Debug\bai_19_virtual-method_abstract_interface.exe
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_19_virtual-method_abstract_interface\bin\Debug\bai_19_virtual-method_abstract_interface.pdb
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_19_virtual-method_abstract_interface\obj\Debug\bai_19_virtual-method_abstract_interface.csproj.AssemblyReference.cache
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_19_virtual-method_abstract_interface\obj\Debug\bai_19_virtual-method_abstract_interface.csproj.CoreCompileInputs.cache
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_19_virtual-method_abstract_interface\obj\Debug\bai_19_virtual-method_abstract_interface.exe
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_19_virtual-method_abstract_interface\obj\Debug\bai_19_virtual-method_abstract_interface.pdb

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
+using System.Net.Http;
 
 namespace bai_29_async_await
 {
@@ -78,9 +79,10 @@ namespace bai_29_async_await
             Console.WriteLine("T4 hoàn thành");
             //return t4;
             // khi khai baó phương thưc với từ khóa asyn ở phương thức trả về giá trị thì không cần return task và trả về giá trị đúng với kieru giá trị định nghĩa mà task sẽ trả về.
-            return "T4 ne moi nguoi";
+            var kq = t4.Result;
+            return kq;
         }
-        static Task<string> Task5() {
+        static async Task<string> Task5() {
             Task<string> t5 = new Task<string>(
                 (object ob) =>
                 {
@@ -89,10 +91,23 @@ namespace bai_29_async_await
                     return "T5 đã return nè";
                 }, "Linh Nguyen Pro"
                 );
-            t5.Start();
-            return t5;
+            //t5.Start();
+            await t5;
+            var kq = t5.Result;
+            return kq;
         }
-        static void Main(string[] args)
+
+        // xây dụng phương thức download 
+        static async Task<string> GetWeb(string url)
+        {
+            HttpClient httpClient = new HttpClient();
+            HttpResponseMessage kq = await httpClient.GetAsync(url);
+            string content = await kq.Content.ReadAsStringAsync();
+            return content;
+
+
+        }
+        static async Task Main(string[] args)
         {
             // synchronous: đồng bộ -
             //DoSomeThing(5, "ABC1", ConsoleColor.Red);
@@ -135,17 +150,22 @@ namespace bai_29_async_await
             
 
             //t4.Start();
-            t4.Wait();
-            t5.Start();
-            Task.WaitAll(t4, t5);
-            Console.WriteLine("hello world");
-            var kq4 = t4.Result;
-            var kq5 = t5.Result;
-            Console.WriteLine(kq4);
-            Console.WriteLine(kq5);
-            Console.ReadKey();
+            //t4.Wait();
+           // t5.Start();
+            //Task.WaitAll(t4, t5);
+           // Console.WriteLine("hello world");
+           // var kq4 = await t4;
+           // var kq5 = t5.Result;
+           // Console.WriteLine(kq4);
+           // Console.WriteLine(kq5);
+           
 
             //TH2: async/await có kiểu trả về 
+
+            var task = GetWeb("https://xuanthulab.net/");
+            string content = await task;
+            Console.WriteLine(content);
+            Console.ReadKey();
         }
     }
 }
