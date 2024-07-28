@@ -1,0 +1,7 @@
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\WEB_NANG_CAO_LN\bin\Debug\WEB_NANG_CAO_LN.exe.config
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\WEB_NANG_CAO_LN\bin\Debug\WEB_NANG_CAO_LN.exe
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\WEB_NANG_CAO_LN\bin\Debug\WEB_NANG_CAO_LN.pdb
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\WEB_NANG_CAO_LN\obj\Debug\WEB_NANG_CAO_LN.csproj.AssemblyReference.cache
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\WEB_NANG_CAO_LN\obj\Debug\WEB_NANG_CAO_LN.csproj.CoreCompileInputs.cache
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\WEB_NANG_CAO_LN\obj\Debug\WEB_NANG_CAO_LN.exe
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\WEB_NANG_CAO_LN\obj\Debug\WEB_NANG_CAO_LN.pdb

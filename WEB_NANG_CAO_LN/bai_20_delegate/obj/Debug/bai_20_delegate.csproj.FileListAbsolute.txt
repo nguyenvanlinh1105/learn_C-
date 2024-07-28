@@ -1,0 +1,7 @@
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_20_delegate\bin\Debug\bai_20_delegate.exe.config
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_20_delegate\bin\Debug\bai_20_delegate.exe
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_20_delegate\bin\Debug\bai_20_delegate.pdb
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_20_delegate\obj\Debug\bai_20_delegate.csproj.AssemblyReference.cache
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_20_delegate\obj\Debug\bai_20_delegate.csproj.CoreCompileInputs.cache
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_20_delegate\obj\Debug\bai_20_delegate.exe
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_20_delegate\obj\Debug\bai_20_delegate.pdb
