@@ -1,0 +1,15 @@
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_22_csEvent\bin\Debug\net8.0\bai_22_csEvent.exe
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_22_csEvent\bin\Debug\net8.0\bai_22_csEvent.deps.json
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_22_csEvent\bin\Debug\net8.0\bai_22_csEvent.runtimeconfig.json
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_22_csEvent\bin\Debug\net8.0\bai_22_csEvent.dll
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_22_csEvent\bin\Debug\net8.0\bai_22_csEvent.pdb
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_22_csEvent\obj\Debug\net8.0\bai_22_csEvent.GeneratedMSBuildEditorConfig.editorconfig
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_22_csEvent\obj\Debug\net8.0\bai_22_csEvent.AssemblyInfoInputs.cache
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_22_csEvent\obj\Debug\net8.0\bai_22_csEvent.AssemblyInfo.cs
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_22_csEvent\obj\Debug\net8.0\bai_22_csEvent.csproj.CoreCompileInputs.cache
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_22_csEvent\obj\Debug\net8.0\bai_22_csEvent.sourcelink.json
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_22_csEvent\obj\Debug\net8.0\bai_22_csEvent.dll
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_22_csEvent\obj\Debug\net8.0\refint\bai_22_csEvent.dll
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_22_csEvent\obj\Debug\net8.0\bai_22_csEvent.pdb
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_22_csEvent\obj\Debug\net8.0\bai_22_csEvent.genruntimeconfig.cache
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_22_csEvent\obj\Debug\net8.0\ref\bai_22_csEvent.dll
