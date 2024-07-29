@@ -31,8 +31,8 @@ namespace bai_20_delegate
         {
             Console.OutputEncoding = Encoding.UTF8;
             showLog log = showInfo;
-            Tong(4, 3, log);
-            Tong(2, 1, warning);
+            Tong(4, 3, log);// sử dụng như này
+            Tong(2, 1, warning);// sử dụng như này;
         }
     }
 }

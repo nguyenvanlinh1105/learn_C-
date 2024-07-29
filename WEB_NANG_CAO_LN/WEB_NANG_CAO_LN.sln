@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai_19_virtual-method_abstr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai_20_delegate", "bai_20_delegate\bai_20_delegate.csproj", "{B3A65D6B-B701-4BB0-923E-3B3345145F41}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai_21_csLambda", "bai_21_csLamDa\bai_21_csLambda.csproj", "{279E46E4-DABD-43D9-82AE-166FB888DBEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{B3A65D6B-B701-4BB0-923E-3B3345145F41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3A65D6B-B701-4BB0-923E-3B3345145F41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3A65D6B-B701-4BB0-923E-3B3345145F41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{279E46E4-DABD-43D9-82AE-166FB888DBEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{279E46E4-DABD-43D9-82AE-166FB888DBEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{279E46E4-DABD-43D9-82AE-166FB888DBEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{279E46E4-DABD-43D9-82AE-166FB888DBEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

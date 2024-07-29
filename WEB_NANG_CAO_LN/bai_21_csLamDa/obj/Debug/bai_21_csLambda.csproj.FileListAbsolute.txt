@@ -1,0 +1,7 @@
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_21_csLamDa\bin\Debug\bai_21_csLamDa.exe.config
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_21_csLamDa\bin\Debug\bai_21_csLamDa.exe
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_21_csLamDa\bin\Debug\bai_21_csLamDa.pdb
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_21_csLamDa\obj\Debug\bai_21_csLambda.csproj.CoreCompileInputs.cache
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_21_csLamDa\obj\Debug\bai_21_csLamDa.exe
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_21_csLamDa\obj\Debug\bai_21_csLamDa.pdb
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_21_csLamDa\obj\Debug\bai_21_csLambda.csproj.AssemblyReference.cache
