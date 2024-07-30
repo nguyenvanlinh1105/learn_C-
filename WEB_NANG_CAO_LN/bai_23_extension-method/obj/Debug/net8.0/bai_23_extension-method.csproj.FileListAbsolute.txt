@@ -1,0 +1,15 @@
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_23_extension-method\bin\Debug\net8.0\bai_23_extension-method.exe
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_23_extension-method\bin\Debug\net8.0\bai_23_extension-method.deps.json
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_23_extension-method\bin\Debug\net8.0\bai_23_extension-method.runtimeconfig.json
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_23_extension-method\bin\Debug\net8.0\bai_23_extension-method.dll
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_23_extension-method\bin\Debug\net8.0\bai_23_extension-method.pdb
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_23_extension-method\obj\Debug\net8.0\bai_23_extension-method.GeneratedMSBuildEditorConfig.editorconfig
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_23_extension-method\obj\Debug\net8.0\bai_23_extension-method.AssemblyInfoInputs.cache
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_23_extension-method\obj\Debug\net8.0\bai_23_extension-method.AssemblyInfo.cs
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_23_extension-method\obj\Debug\net8.0\bai_23_extension-method.csproj.CoreCompileInputs.cache
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_23_extension-method\obj\Debug\net8.0\bai_23_extension-method.sourcelink.json
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_23_extension-method\obj\Debug\net8.0\bai_23_extension-method.dll
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_23_extension-method\obj\Debug\net8.0\refint\bai_23_extension-method.dll
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_23_extension-method\obj\Debug\net8.0\bai_23_extension-method.pdb
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_23_extension-method\obj\Debug\net8.0\bai_23_extension-method.genruntimeconfig.cache
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_23_extension-method\obj\Debug\net8.0\ref\bai_23_extension-method.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bai_23_extension-method")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7a6734f65cf496782aab8db4f363e7b6f5e6e87")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02929f4484462fcdbc1f661366b7dc4ee738ad8a")]
 [assembly: System.Reflection.AssemblyProductAttribute("bai_23_extension-method")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bai_23_extension-method")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

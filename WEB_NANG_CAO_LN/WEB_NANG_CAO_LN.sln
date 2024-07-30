@@ -17,9 +17,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai_20_delegate", "bai_20_d
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai_21_csLambda", "bai_21_csLamDa\bai_21_csLambda.csproj", "{279E46E4-DABD-43D9-82AE-166FB888DBEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai_22_csEvent", "bai_22_csEvent\bai_22_csEvent.csproj", "{61DB1C61-EB69-4691-96BF-4FAC71273049}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bai_22_csEvent", "bai_22_csEvent\bai_22_csEvent.csproj", "{61DB1C61-EB69-4691-96BF-4FAC71273049}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai_23_extension-method", "bai_23_extension-method\bai_23_extension-method.csproj", "{E2466372-7AF1-4DB7-85A9-3C7F301E379A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bai_23_extension_method", "bai_23_extension-method\bai_23_extension_method.csproj", "{E2466372-7AF1-4DB7-85A9-3C7F301E379A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
