@@ -1,0 +1,15 @@
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_24_static_readonly_operator\bin\Debug\net8.0\bai_24_static_readonly_operator.exe
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_24_static_readonly_operator\bin\Debug\net8.0\bai_24_static_readonly_operator.deps.json
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_24_static_readonly_operator\bin\Debug\net8.0\bai_24_static_readonly_operator.runtimeconfig.json
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_24_static_readonly_operator\bin\Debug\net8.0\bai_24_static_readonly_operator.dll
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_24_static_readonly_operator\bin\Debug\net8.0\bai_24_static_readonly_operator.pdb
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_24_static_readonly_operator\obj\Debug\net8.0\bai_24_static_readonly_operator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_24_static_readonly_operator\obj\Debug\net8.0\bai_24_static_readonly_operator.AssemblyInfoInputs.cache
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_24_static_readonly_operator\obj\Debug\net8.0\bai_24_static_readonly_operator.AssemblyInfo.cs
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_24_static_readonly_operator\obj\Debug\net8.0\bai_24_static_readonly_operator.csproj.CoreCompileInputs.cache
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_24_static_readonly_operator\obj\Debug\net8.0\bai_24_static_readonly_operator.sourcelink.json
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_24_static_readonly_operator\obj\Debug\net8.0\bai_24_static_readonly_operator.dll
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_24_static_readonly_operator\obj\Debug\net8.0\refint\bai_24_static_readonly_operator.dll
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_24_static_readonly_operator\obj\Debug\net8.0\bai_24_static_readonly_operator.pdb
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_24_static_readonly_operator\obj\Debug\net8.0\bai_24_static_readonly_operator.genruntimeconfig.cache
+D:\ONE_D\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_24_static_readonly_operator\obj\Debug\net8.0\ref\bai_24_static_readonly_operator.dll
