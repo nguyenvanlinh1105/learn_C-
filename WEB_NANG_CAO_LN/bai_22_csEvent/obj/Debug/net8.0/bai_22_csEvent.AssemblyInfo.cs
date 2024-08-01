@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bai_22_csEvent")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0d4d71128e05ffff2a5bce2af6493be7cda696c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1ac7809c81d734e8079e1ca32aa174869967edf")]
 [assembly: System.Reflection.AssemblyProductAttribute("bai_22_csEvent")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bai_22_csEvent")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

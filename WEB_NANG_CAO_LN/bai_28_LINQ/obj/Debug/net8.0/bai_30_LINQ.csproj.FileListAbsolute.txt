@@ -1,0 +1,15 @@
+D:\ONE_DRIVE\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_28_LINQ\bin\Debug\net8.0\bai_30_LINQ.exe
+D:\ONE_DRIVE\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_28_LINQ\bin\Debug\net8.0\bai_30_LINQ.deps.json
+D:\ONE_DRIVE\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_28_LINQ\bin\Debug\net8.0\bai_30_LINQ.runtimeconfig.json
+D:\ONE_DRIVE\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_28_LINQ\bin\Debug\net8.0\bai_30_LINQ.dll
+D:\ONE_DRIVE\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_28_LINQ\bin\Debug\net8.0\bai_30_LINQ.pdb
+D:\ONE_DRIVE\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_28_LINQ\obj\Debug\net8.0\bai_30_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\ONE_DRIVE\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_28_LINQ\obj\Debug\net8.0\bai_30_LINQ.AssemblyInfoInputs.cache
+D:\ONE_DRIVE\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_28_LINQ\obj\Debug\net8.0\bai_30_LINQ.AssemblyInfo.cs
+D:\ONE_DRIVE\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_28_LINQ\obj\Debug\net8.0\bai_30_LINQ.csproj.CoreCompileInputs.cache
+D:\ONE_DRIVE\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_28_LINQ\obj\Debug\net8.0\bai_30_LINQ.sourcelink.json
+D:\ONE_DRIVE\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_28_LINQ\obj\Debug\net8.0\bai_30_LINQ.dll
+D:\ONE_DRIVE\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_28_LINQ\obj\Debug\net8.0\refint\bai_30_LINQ.dll
+D:\ONE_DRIVE\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_28_LINQ\obj\Debug\net8.0\bai_30_LINQ.pdb
+D:\ONE_DRIVE\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_28_LINQ\obj\Debug\net8.0\bai_30_LINQ.genruntimeconfig.cache
+D:\ONE_DRIVE\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_28_LINQ\obj\Debug\net8.0\ref\bai_30_LINQ.dll
