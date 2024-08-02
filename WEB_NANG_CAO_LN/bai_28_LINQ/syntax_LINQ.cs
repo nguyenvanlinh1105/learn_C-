@@ -12,6 +12,9 @@ namespace bai_30_LINQ
      * 2. Lấy dữ liệu : Select,group by
      * 
      * 
+     * 
+     * group by : kết quả trả về là một collection các nhóm. Mỗi nhóm là một IGrouping<TKey, TElement>,
+     * trong đó TKey là kiểu của khóa bạn đã sử dụng để nhóm các phần tử và TElement là kiểu của các phần tử trong nhóm.
      */
     public class product
     {
@@ -81,21 +84,73 @@ namespace bai_30_LINQ
             // from: giá <500 màu: xanh
             var ketQua = from i in products
                          from color in i.Colors
-                         where i.Price <= 400 && color == "Xanh"
+                         where i.Price <= 400 && color == "Xanh" 
+                         orderby i.Price
+                         
                          select new
                          {
                              Ten = i.Name,
                              Gia = i.Price,
                              Colors = i.Colors
-                         };
+                         };// lấy ra thông tin nào?
 
             foreach (var item in ketQua)
             {
-                Console.WriteLine($"Ten: {item.Ten}, Gia: {item.Gia}");
-                item.Colors.ToList().ForEach(color => Console.WriteLine(color));
+                Console.Write($"Ten: {item.Ten}, Gia: {item.Gia}-");
+                Console.WriteLine(string.Join(",", item.Colors));
             }
 
+            // nhóm sản phẩm theo giá // có thể lưu nó trên một biến tạm rồi thực hiện các hành động trên biến tạm đó
+            var kqua = from i in products
+                       group i by i.Price;
+            kqua.ToList().ForEach(p =>
+            {
+                Console.WriteLine("KEY "+p.Key);
+                foreach (var item in p)
+                {
+                    Console.WriteLine(item.ToString());
+                }
+            });
 
+
+            var ketqua = from i in products
+                         group i by i.Price into gr// key === giá trị muốn group 
+                         orderby gr.Key
+                         // select gr;// gr: chứa tất cả thuộc tính mà nó select 
+                         let sl = $"Số lượng là : " + gr.Count()
+                         select new
+                         {
+                             Gia = gr.Key,
+                             CacSanPham = gr.ToList(),
+                             soLuong = sl
+                         };
+             Console.WriteLine("--------------------");
+            ketqua.ToList().ForEach(i =>
+            {
+                Console.WriteLine($"Giá ={i.Gia}");
+                Console.WriteLine($"Số lượng= {i.soLuong}");
+                foreach(var item in i.CacSanPham)
+                {
+                    Console.WriteLine(item.ToString());
+                }
+            });
+
+            // kết hợp các nguồn dữ liệu sử dụng join : 
+            // liệt kê ra các sản phẩm,hãng , giá.
+
+
+            var query = from product in products
+                        join b in brands on product.Brand equals b.ID
+                        select new
+                        {
+                            Ten = product.Name,
+                            Gia = product.Price,
+                            ThuongHieu = b.Name
+                        };
+            query.ToList().ForEach(i =>
+            {
+                Console.WriteLine(i);
+            });
 
         }
     }
