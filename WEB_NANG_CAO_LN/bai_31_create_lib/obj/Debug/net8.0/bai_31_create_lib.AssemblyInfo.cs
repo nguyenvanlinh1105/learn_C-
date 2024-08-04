@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bai_31_create_lib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+477edd7d2ffc5e2134be8321ef234a008c18f5a7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+707206b9ab9e8c0271c1d2218488f6d85ef323c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("bai_31_create_lib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bai_31_create_lib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

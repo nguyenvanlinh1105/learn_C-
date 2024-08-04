@@ -1,0 +1,15 @@
+D:\ONE_DRIVE\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_32_Type_Attribute\bin\Debug\net8.0\bai_32_Type_Attribute.exe
+D:\ONE_DRIVE\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_32_Type_Attribute\bin\Debug\net8.0\bai_32_Type_Attribute.deps.json
+D:\ONE_DRIVE\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_32_Type_Attribute\bin\Debug\net8.0\bai_32_Type_Attribute.runtimeconfig.json
+D:\ONE_DRIVE\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_32_Type_Attribute\bin\Debug\net8.0\bai_32_Type_Attribute.dll
+D:\ONE_DRIVE\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_32_Type_Attribute\bin\Debug\net8.0\bai_32_Type_Attribute.pdb
+D:\ONE_DRIVE\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_32_Type_Attribute\obj\Debug\net8.0\bai_32_Type_Attribute.GeneratedMSBuildEditorConfig.editorconfig
+D:\ONE_DRIVE\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_32_Type_Attribute\obj\Debug\net8.0\bai_32_Type_Attribute.AssemblyInfoInputs.cache
+D:\ONE_DRIVE\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_32_Type_Attribute\obj\Debug\net8.0\bai_32_Type_Attribute.AssemblyInfo.cs
+D:\ONE_DRIVE\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_32_Type_Attribute\obj\Debug\net8.0\bai_32_Type_Attribute.csproj.CoreCompileInputs.cache
+D:\ONE_DRIVE\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_32_Type_Attribute\obj\Debug\net8.0\bai_32_Type_Attribute.sourcelink.json
+D:\ONE_DRIVE\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_32_Type_Attribute\obj\Debug\net8.0\bai_32_Type_Attribute.dll
+D:\ONE_DRIVE\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_32_Type_Attribute\obj\Debug\net8.0\refint\bai_32_Type_Attribute.dll
+D:\ONE_DRIVE\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_32_Type_Attribute\obj\Debug\net8.0\bai_32_Type_Attribute.pdb
+D:\ONE_DRIVE\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_32_Type_Attribute\obj\Debug\net8.0\bai_32_Type_Attribute.genruntimeconfig.cache
+D:\ONE_DRIVE\OneDrive - University of Technology and Education\2024-2025 ki 5 124\WEB_NANG_CAO\WEB_NANG_CAO_LN\bai_32_Type_Attribute\obj\Debug\net8.0\ref\bai_32_Type_Attribute.dll
